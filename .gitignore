@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.bmp
+*.bin
+temp_*/
+*.tmp
+.cache/
